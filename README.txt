@@ -9,7 +9,10 @@ Directory Structure
 			|----- create_modules.py 	(this script is used to create PyTorch modules from the cfg list).
 			|----- nn_utils.py 		(this script contains helper class from the PyTorch nn module).
 			|----- load_weights.py 		(this script is used to load weights to the Yolo v3 model).
+			|----- 
 			|----- darknet.py 		(this is actual script which is used to to create a model from the cfg file).
+
+		---- main.py				(Entry point for Object Detction Script).
 			
 
 	
